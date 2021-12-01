@@ -14,6 +14,5 @@ public class Product {
 		return "Product [prdId=" + prdId + ", prdName=" + prdName + "]";
 	}
 	
-	
 
 }
