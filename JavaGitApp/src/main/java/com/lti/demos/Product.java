@@ -13,6 +13,4 @@ public class Product {
 	public String toString() {
 		return "Product [prdId=" + prdId + ", prdName=" + prdName + "]";
 	}
-	
-
 }
